@@ -1,0 +1,17 @@
+[
+  { "id": 1, "name": "New York", "age": 397 },
+  { "id": 2, "name": "Los Angeles", "age": 240 },
+  { "id": 3, "name": "Chicago", "age": 184 },
+  { "id": 4, "name": "San Francisco", "age": 245 },
+  { "id": 5, "name": "Miami", "age": 125 },
+  { "id": 6, "name": "Houston", "age": 184 },
+  { "id": 7, "name": "Seattle", "age": 152 },
+  { "id": 8, "name": "Boston", "age": 391 },
+  { "id": 9, "name": "Austin", "age": 182 },
+  { "id": 10, "name": "Denver", "age": 163 },
+  { "id": 11, "name": "Las Vegas", "age": 110 },
+  { "id": 12, "name": "Philadelphia", "age": 339 },
+  { "id": 13, "name": "Phoenix", "age": 140 },
+  { "id": 14, "name": "Portland", "age": 170 },
+  { "id": 15, "name": "Atlanta", "age": 174 }
+]

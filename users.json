@@ -1,0 +1,107 @@
+[
+  {
+    "name": "John Smith",
+    "age": 30,
+    "gender": "male",
+    "occupation": "Engineer",
+    "cityId": 1
+  },
+  {
+    "name": "Emily Johnson",
+    "age": 28,
+    "gender": "female",
+    "occupation": "Doctor",
+    "cityId": 1
+  },
+  {
+    "name": "Michael Brown",
+    "age": 35,
+    "gender": "male",
+    "occupation": "Teacher",
+    "cityId": 1
+  },
+  {
+    "name": "Jessica Lee",
+    "age": 25,
+    "gender": "female",
+    "occupation": "Software Developer",
+    "cityId": 4
+  },
+  {
+    "name": "David Rodriguez",
+    "age": 40,
+    "gender": "male",
+    "occupation": "Lawyer",
+    "cityId": 3
+  },
+  {
+    "name": "Sarah Martinez",
+    "age": 32,
+    "gender": "female",
+    "occupation": "Accountant",
+    "cityId": 3
+  },
+  {
+    "name": "Christopher Wilson",
+    "age": 45,
+    "gender": "male",
+    "occupation": "Architect",
+    "cityId": 7
+  },
+  {
+    "name": "Olivia Taylor",
+    "age": 29,
+    "gender": "female",
+    "occupation": "Graphic Designer",
+    "cityId": 9
+  },
+  {
+    "name": "Daniel Thomas",
+    "age": 33,
+    "gender": "male",
+    "occupation": "Entrepreneur",
+    "cityId": 9
+  },
+  {
+    "name": "Ava Garcia",
+    "age": 27,
+    "gender": "female",
+    "occupation": "Marketing Manager",
+    "cityId": 12
+  },
+  {
+    "name": "James Clark",
+    "age": 38,
+    "gender": "male",
+    "occupation": "Chef",
+    "cityId": 12
+  },
+  {
+    "name": "Sophia Hernandez",
+    "age": 31,
+    "gender": "female",
+    "occupation": "Engineer",
+    "cityId": 12
+  },
+  {
+    "name": "Matthew White",
+    "age": 36,
+    "gender": "male",
+    "occupation": "Architect",
+    "cityId": 13
+  },
+  {
+    "name": "Emma Anderson",
+    "age": 26,
+    "gender": "female",
+    "occupation": "Writer",
+    "cityId": 14
+  },
+  {
+    "name": "William Martin",
+    "age": 34,
+    "gender": "male",
+    "occupation": "Software Engineer",
+    "cityId": 15
+  }
+]

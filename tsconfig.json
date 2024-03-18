@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "resolveJsonModule": true, // allow importing modules with a .json extension
+    "esModuleInterop": true, // make importing things in TypeScript work more like it does in JavaScript
+    "target": "es5", // the version of JavaScript to compile to
+    "module": "CommonJS", // the module system to use
+    "strict": true, // enables/disables strict type checking
+    "outDir": "./dist", // the directory to output the compiled JavaScript files
+    "rootDir": "./src", // the root directory of the TypeScript files
+    "allowJs": true
+  },
+  "exclude": ["node_modules"], // an array of file/directory patterns to exclude from the compilation
+  "include": ["src"] // an array of file/directory patterns to include in the compilation
+}
